@@ -1,0 +1,1 @@
+# react-native-multiple-share-menu
