@@ -12,7 +12,7 @@ const App = () => {
             }
     
             setSharedData(item);
-        }, []);
+        });
 
         ShareMenu.getInitialShare(handleShare);
         const listener = ShareMenu.addNewShareListener(handleShare);
