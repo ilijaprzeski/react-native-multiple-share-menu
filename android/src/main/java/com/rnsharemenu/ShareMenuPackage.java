@@ -1,4 +1,4 @@
-package com.meedan;
+package com.rnsharemenu;
 
 import androidx.annotation.NonNull;
 
