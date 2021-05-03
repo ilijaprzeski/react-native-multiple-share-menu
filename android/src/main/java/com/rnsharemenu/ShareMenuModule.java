@@ -1,4 +1,4 @@
-package com.meedan;
+package com.rnsharemenu;
 
 import com.facebook.react.bridge.ActivityEventListener;
 import com.facebook.react.bridge.Arguments;
